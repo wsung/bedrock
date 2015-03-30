@@ -26,6 +26,7 @@
       },
       finalize: function() {
         // JavaScript to be fired on all pages, after page specific JS is fired
+          $(document).foundation();
       }
     },
     // Home page
