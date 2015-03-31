@@ -17,7 +17,7 @@ env:
 before_install:
   - pyrus install pear/PHP_CodeSniffer
   - phpenv rehash
-  - npm install -g gulp bower
+  - npm install -g npm@2 gulp bower
   - bundle install
 
 install:
