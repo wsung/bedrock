@@ -17,7 +17,7 @@
     }
   ],
   "keywords": [
-    "wordpress", "stack", "capistrano", "composer", "vagrant", "wp"
+    "bedrock", "roots", "wordpress", "stack", "composer", "vagrant", "wp"
   ],
   "support": {
     "issues": "https://github.com/roots/bedrock/issues",
@@ -43,7 +43,7 @@
     "php": ">=5.4",
     "composer/installers": "~1.0.12",
     "vlucas/phpdotenv": "~1.0.9",
-    "johnpbloch/wordpress": "4.1.1"
+    "johnpbloch/wordpress": "4.1.2"
   },
   "extra": {
     "installer-paths": {
